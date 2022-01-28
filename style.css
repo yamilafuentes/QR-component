@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family=Exo&display=swap');
+
+
+img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+body{
+  background-color: hsl(212, 45%, 89%);  
+}
+
+#container {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 15vh;
+  margin-bottom: 15vh;
+}
+
+.card {
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 12px; 
+  background-color: hsl(0, 0%, 100%);
+}
+
+.title {
+  margin: 5px;
+  font-weight: 700;
+  font-size: 18px;
+  color: hsl(218, 44%, 22%);
+  font-family: 'Exo', sans-serif;
+}
+
+p {
+  margin: 8px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+*/
